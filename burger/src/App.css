@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+}
+
+.pane {
+  border: 2px solid black;
+  height: 300px;
+  width: 200px;
+  margin: 2em;
+}
+
+.ingredient {
+  height: 20px;
+  width: 150px;
+  margin: 0.25em 0;
+}
+
+.bun {
+  background-color: goldenrod;
+}
+
+.lettuce {
+  background-color: green;
+}
+
+.meat {
+  background-color: brown;
+}
+
+.cheese {
+  background-color: yellow;
+}
